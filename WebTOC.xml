@@ -4,16 +4,16 @@
   <HelpTOCNode Title="Welcome" Url="html/8105a28b-0627-4b9e-97f6-5cd978f4d128.htm" />
   <HelpTOCNode Title="Map MAML to AMDL" Url="html/580efa0a-5f59-441d-9def-b2de59d71159.htm" />
   <HelpTOCNode Title="amdl2maml" Url="html/fc3d4a3c-76b2-487d-ba22-21f5aa07afde.htm" />
-  <HelpTOCNode Id="b8a4431e-df44-4415-bd04-008d91d5a0a0" Title="Amdl.Converter" Url="html/88c96acf-6a83-3d72-2424-a9d9865b383d.htm">
-    <HelpTOCNode Id="99263d01-2879-49d8-8bfa-41dc89a733fd" Title="TopicConverter Class" Url="html/8c74e01a-0c0e-1e14-518b-23aaa3163e16.htm">
+  <HelpTOCNode Id="ba008f2d-9805-4947-a8d0-0f7f192fff17" Title="Amdl.Converter" Url="html/88c96acf-6a83-3d72-2424-a9d9865b383d.htm">
+    <HelpTOCNode Id="b8bdf17d-a0f3-4788-bcc9-00e77ac8ccf9" Title="TopicConverter Class" Url="html/8c74e01a-0c0e-1e14-518b-23aaa3163e16.htm">
       <HelpTOCNode Title="TopicConverter Constructor " Url="html/339691d2-d105-575e-8a0f-27ae7693c7bc.htm" />
-      <HelpTOCNode Id="56f397b2-a0f0-44e2-960c-f29875981fff" Title="TopicConverter Methods" Url="html/2c195422-4912-53d9-d50e-79a52f5a8c50.htm">
+      <HelpTOCNode Id="79bcadeb-fd2e-41cb-bf3e-b2f611361c18" Title="TopicConverter Methods" Url="html/2c195422-4912-53d9-d50e-79a52f5a8c50.htm">
         <HelpTOCNode Title="Convert Method " Url="html/61298742-c1cc-d4ac-4e3a-2c3609de8a35.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="f56a2516-d8d9-4d7f-8f39-36a2061978b9" Title="TopicData Class" Url="html/27207bf9-d285-440c-f0f2-2340cd45bb36.htm">
+    <HelpTOCNode Id="c3dcc09a-646a-40a4-978e-b28e5aad05f5" Title="TopicData Class" Url="html/27207bf9-d285-440c-f0f2-2340cd45bb36.htm">
       <HelpTOCNode Title="TopicData Constructor " Url="html/85181527-23c7-268b-691d-eb65e29089e1.htm" />
-      <HelpTOCNode Id="e94a9e3e-997f-4ae3-a5f8-7c49f0738a07" Title="TopicData Properties" Url="html/13a82dd1-d1ad-3b2e-9200-a6c765c77591.htm">
+      <HelpTOCNode Id="57c8e319-b2b4-4e4b-bf7a-103630e8f9af" Title="TopicData Properties" Url="html/13a82dd1-d1ad-3b2e-9200-a6c765c77591.htm">
         <HelpTOCNode Title="Id Property " Url="html/b05136b6-09ff-790e-b8f7-95dfb303c527.htm" />
         <HelpTOCNode Title="Name Property " Url="html/d904558b-7916-a30c-31ba-58c3e4001503.htm" />
         <HelpTOCNode Title="Title Property " Url="html/67a6e474-c78e-7ca9-2902-2890c57dcfe9.htm" />
