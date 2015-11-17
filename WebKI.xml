@@ -1,30 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpKI>
-  <HelpKINode Title="Amdl.Converter namespace" Url="html/88c96acf-6a83-3d72-2424-a9d9865b383d.htm" />
-  <HelpKINode Title="Amdl.Converter.TopicConverter class" Url="html/8c74e01a-0c0e-1e14-518b-23aaa3163e16.htm" />
-  <HelpKINode Title="Amdl.Converter.TopicData class" Url="html/27207bf9-d285-440c-f0f2-2340cd45bb36.htm" />
-  <HelpKINode Title="Convert method" Url="html/61298742-c1cc-d4ac-4e3a-2c3609de8a35.htm" />
-  <HelpKINode Title="Id property" Url="html/b05136b6-09ff-790e-b8f7-95dfb303c527.htm" />
-  <HelpKINode Title="Name property" Url="html/d904558b-7916-a30c-31ba-58c3e4001503.htm" />
-  <HelpKINode Title="Title property" Url="html/67a6e474-c78e-7ca9-2902-2890c57dcfe9.htm" />
+  <HelpKINode Title="Amdl.Maml.Converter namespace" Url="html/309e5d20-f51e-a0af-f360-b5577f5d8975.htm" />
+  <HelpKINode Title="Amdl.Maml.Converter.TopicConverter class" Url="html/4c541633-3faa-9784-8bf6-dde644e827ae.htm" />
+  <HelpKINode Title="Amdl.Maml.Converter.TopicData class" Url="html/b7cedcfa-2859-7899-7b1b-a798b5bb5704.htm" />
+  <HelpKINode Title="Convert method" Url="html/90940dd2-0967-3987-7216-03f1fbff1351.htm" />
+  <HelpKINode Title="Id property" Url="html/970ee88a-bf6d-174e-9591-3d0395b910af.htm" />
+  <HelpKINode Title="Name property" Url="html/cc630958-557c-fe7b-a0d8-62c53e8a3fde.htm" />
+  <HelpKINode Title="RelativePath property" Url="html/2a7ada28-0c7d-3a95-e881-cbad4b014ce3.htm" />
+  <HelpKINode Title="Title property" Url="html/4b1318de-79b7-4e62-4f05-042f681e8f5e.htm" />
   <HelpKINode Title="TopicConverter class">
-    <HelpKINode Title="TopicConverter Class" Url="html/8c74e01a-0c0e-1e14-518b-23aaa3163e16.htm" />
-    <HelpKINode Title="about TopicConverter class" Url="html/8c74e01a-0c0e-1e14-518b-23aaa3163e16.htm" />
-    <HelpKINode Title="constructor" Url="html/339691d2-d105-575e-8a0f-27ae7693c7bc.htm" />
-    <HelpKINode Title="methods" Url="html/2c195422-4912-53d9-d50e-79a52f5a8c50.htm" />
+    <HelpKINode Title="TopicConverter Class" Url="html/4c541633-3faa-9784-8bf6-dde644e827ae.htm" />
+    <HelpKINode Title="about TopicConverter class" Url="html/4c541633-3faa-9784-8bf6-dde644e827ae.htm" />
+    <HelpKINode Title="constructor" Url="html/73b8a6b9-212a-32ae-d4a7-a0f6e89a7bb4.htm" />
+    <HelpKINode Title="methods" Url="html/ba8c3485-91a4-a1ba-c46f-e0bd4e8b23aa.htm" />
   </HelpKINode>
-  <HelpKINode Title="TopicConverter.Convert method" Url="html/61298742-c1cc-d4ac-4e3a-2c3609de8a35.htm" />
-  <HelpKINode Title="TopicConverter.TopicConverter constructor" Url="html/339691d2-d105-575e-8a0f-27ae7693c7bc.htm" />
+  <HelpKINode Title="TopicConverter.Convert method" Url="html/90940dd2-0967-3987-7216-03f1fbff1351.htm" />
+  <HelpKINode Title="TopicConverter.TopicConverter constructor" Url="html/73b8a6b9-212a-32ae-d4a7-a0f6e89a7bb4.htm" />
   <HelpKINode Title="TopicData class">
-    <HelpKINode Title="TopicData Class" Url="html/27207bf9-d285-440c-f0f2-2340cd45bb36.htm" />
-    <HelpKINode Title="about TopicData class" Url="html/27207bf9-d285-440c-f0f2-2340cd45bb36.htm" />
-    <HelpKINode Title="constructor" Url="html/85181527-23c7-268b-691d-eb65e29089e1.htm" />
-    <HelpKINode Title="methods" Url="html/caf5dee2-5e5d-1a86-d0dc-387d2693cae7.htm" />
-    <HelpKINode Title="properties" Url="html/13a82dd1-d1ad-3b2e-9200-a6c765c77591.htm" />
+    <HelpKINode Title="TopicData Class" Url="html/b7cedcfa-2859-7899-7b1b-a798b5bb5704.htm" />
+    <HelpKINode Title="about TopicData class" Url="html/b7cedcfa-2859-7899-7b1b-a798b5bb5704.htm" />
+    <HelpKINode Title="constructor" Url="html/2a027bf5-5926-de33-1927-4197fb1983a8.htm" />
+    <HelpKINode Title="methods" Url="html/83eda2db-7e05-1897-b5cd-42be32e71f8e.htm" />
+    <HelpKINode Title="properties" Url="html/4487d4e0-a6c6-ff84-11b8-7a5e4309a046.htm" />
   </HelpKINode>
-  <HelpKINode Title="TopicData.Id property" Url="html/b05136b6-09ff-790e-b8f7-95dfb303c527.htm" />
-  <HelpKINode Title="TopicData.Name property" Url="html/d904558b-7916-a30c-31ba-58c3e4001503.htm" />
-  <HelpKINode Title="TopicData.Title property" Url="html/67a6e474-c78e-7ca9-2902-2890c57dcfe9.htm" />
-  <HelpKINode Title="TopicData.TopicData constructor" Url="html/85181527-23c7-268b-691d-eb65e29089e1.htm" />
+  <HelpKINode Title="TopicData.Id property" Url="html/970ee88a-bf6d-174e-9591-3d0395b910af.htm" />
+  <HelpKINode Title="TopicData.Name property" Url="html/cc630958-557c-fe7b-a0d8-62c53e8a3fde.htm" />
+  <HelpKINode Title="TopicData.RelativePath property" Url="html/2a7ada28-0c7d-3a95-e881-cbad4b014ce3.htm" />
+  <HelpKINode Title="TopicData.Title property" Url="html/4b1318de-79b7-4e62-4f05-042f681e8f5e.htm" />
+  <HelpKINode Title="TopicData.TopicData constructor" Url="html/2a027bf5-5926-de33-1927-4197fb1983a8.htm" />
   <HelpKINode Title="Welcome" Url="html/8105a28b-0627-4b9e-97f6-5cd978f4d128.htm" />
 </HelpKI>
