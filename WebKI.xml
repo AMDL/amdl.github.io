@@ -3,9 +3,12 @@
   <HelpKINode Title="Amdl.Maml.Converter namespace" Url="html/309e5d20-f51e-a0af-f360-b5577f5d8975.htm" />
   <HelpKINode Title="Amdl.Maml.Converter.TopicConverter class" Url="html/4c541633-3faa-9784-8bf6-dde644e827ae.htm" />
   <HelpKINode Title="Amdl.Maml.Converter.TopicData class" Url="html/b7cedcfa-2859-7899-7b1b-a798b5bb5704.htm" />
+  <HelpKINode Title="Amdl.Maml.Converter.TopicType enumeration" Url="html/e1e81741-5a8e-2925-b403-f51dffd25db7.htm" />
+  <HelpKINode Title="Conceptual enumeration member" Url="html/e1e81741-5a8e-2925-b403-f51dffd25db7.htm" />
   <HelpKINode Title="Convert method" Url="html/90940dd2-0967-3987-7216-03f1fbff1351.htm" />
   <HelpKINode Title="Id property" Url="html/970ee88a-bf6d-174e-9591-3d0395b910af.htm" />
   <HelpKINode Title="Name property" Url="html/cc630958-557c-fe7b-a0d8-62c53e8a3fde.htm" />
+  <HelpKINode Title="Orientation enumeration member" Url="html/e1e81741-5a8e-2925-b403-f51dffd25db7.htm" />
   <HelpKINode Title="RelativePath property" Url="html/2a7ada28-0c7d-3a95-e881-cbad4b014ce3.htm" />
   <HelpKINode Title="Title property" Url="html/4b1318de-79b7-4e62-4f05-042f681e8f5e.htm" />
   <HelpKINode Title="TopicConverter class">
@@ -19,7 +22,7 @@
   <HelpKINode Title="TopicData class">
     <HelpKINode Title="TopicData Class" Url="html/b7cedcfa-2859-7899-7b1b-a798b5bb5704.htm" />
     <HelpKINode Title="about TopicData class" Url="html/b7cedcfa-2859-7899-7b1b-a798b5bb5704.htm" />
-    <HelpKINode Title="constructor" Url="html/2a027bf5-5926-de33-1927-4197fb1983a8.htm" />
+    <HelpKINode Title="constructor" Url="html/46fd3c54-b4ad-a00e-06e8-920e245d9623.htm" />
     <HelpKINode Title="methods" Url="html/83eda2db-7e05-1897-b5cd-42be32e71f8e.htm" />
     <HelpKINode Title="properties" Url="html/4487d4e0-a6c6-ff84-11b8-7a5e4309a046.htm" />
   </HelpKINode>
@@ -27,6 +30,9 @@
   <HelpKINode Title="TopicData.Name property" Url="html/cc630958-557c-fe7b-a0d8-62c53e8a3fde.htm" />
   <HelpKINode Title="TopicData.RelativePath property" Url="html/2a7ada28-0c7d-3a95-e881-cbad4b014ce3.htm" />
   <HelpKINode Title="TopicData.Title property" Url="html/4b1318de-79b7-4e62-4f05-042f681e8f5e.htm" />
-  <HelpKINode Title="TopicData.TopicData constructor" Url="html/2a027bf5-5926-de33-1927-4197fb1983a8.htm" />
+  <HelpKINode Title="TopicData.TopicData constructor" Url="html/46fd3c54-b4ad-a00e-06e8-920e245d9623.htm" />
+  <HelpKINode Title="TopicData.Type property" Url="html/339de7ba-a184-7473-8cce-84844edbb2f6.htm" />
+  <HelpKINode Title="TopicType enumeration" Url="html/e1e81741-5a8e-2925-b403-f51dffd25db7.htm" />
+  <HelpKINode Title="Type property" Url="html/339de7ba-a184-7473-8cce-84844edbb2f6.htm" />
   <HelpKINode Title="Welcome" Url="html/8105a28b-0627-4b9e-97f6-5cd978f4d128.htm" />
 </HelpKI>
