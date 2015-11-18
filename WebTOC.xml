@@ -3,48 +3,56 @@
 
   <HelpTOCNode Title="Welcome" Url="html/8105a28b-0627-4b9e-97f6-5cd978f4d128.htm" />
   <HelpTOCNode Title="Design Principles" Url="html/d8f382af-8f28-4e32-98a2-6f8e7ddf2cf5.htm" />
-  <HelpTOCNode Id="36fa73d6-e5a2-44a9-9121-ed8848147623" Title="MAML" Url="html/580efa0a-5f59-441d-9def-b2de59d71159.htm">
-    <HelpTOCNode Id="7ef7bef1-8165-4b55-8b82-2e4ba9b49c33" Title="File Types" Url="html/a315dbfe-62a7-4b06-b0b8-1db77bbc5ec6.htm">
+  <HelpTOCNode Id="98cd59d7-430f-480d-8463-756e6bb7bc43" Title="MAML" Url="html/580efa0a-5f59-441d-9def-b2de59d71159.htm">
+    <HelpTOCNode Id="88f4448d-2e95-44a4-b29a-51826b0df47a" Title="File Types" Url="html/a315dbfe-62a7-4b06-b0b8-1db77bbc5ec6.htm">
       <HelpTOCNode Title="Topic File" Url="html/f3a5769b-14ba-479d-b1b8-411a49dd09cb.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="13efb8e5-1980-4e98-9668-f0ed6e0ab642" Title="Block Elements" Url="html/7304a0d6-08bc-4ff6-83b5-7ea97b5c70cf.htm">
+    <HelpTOCNode Id="18d7a8f7-0fdd-4c54-84bd-093336619279" Title="Block Elements" Url="html/7304a0d6-08bc-4ff6-83b5-7ea97b5c70cf.htm">
       <HelpTOCNode Title="&lt;definitionTable&gt;, &lt;definedTerm&gt;, &lt;definition&gt;" Url="html/632e17ce-26cf-4455-a6ee-31e9dac8f05a.htm" />
       <HelpTOCNode Title="&lt;introduction&gt;" Url="html/0ab2c5b3-cad5-4abb-b5f6-6882a07b83d2.htm" />
       <HelpTOCNode Title="&lt;summary&gt;" Url="html/4092517c-098d-4680-9efe-eaf5bb5019c0.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="3fb79821-728f-4daa-ac63-140daa12b005" Title="Inline Elements" Url="html/41249bf2-dc38-4072-b367-4e13526f29a7.htm">
+    <HelpTOCNode Id="83992b99-695a-499e-9cb2-ae6bd9ae9aba" Title="Inline Elements" Url="html/41249bf2-dc38-4072-b367-4e13526f29a7.htm">
       <HelpTOCNode Title="&lt;legacyBold&gt;" Url="html/d348035c-2667-432b-9084-16544290874d.htm" />
       <HelpTOCNode Title="&lt;legacyItalic&gt;" Url="html/0d1b5b1e-59ed-4111-b976-0f8dbcd435a8.htm" />
       <HelpTOCNode Title="&lt;legacyUnderline&gt;" Url="html/c7ff7df3-d4f7-42a8-a70e-8739421ee5fb.htm" />
       <HelpTOCNode Title="&lt;subscript&gt;" Url="html/225a03f7-69e1-44f6-b7b5-8f14f373a75c.htm" />
       <HelpTOCNode Title="&lt;superscript&gt;" Url="html/76f41a0c-9f41-40b4-81f5-e3f264d795ab.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="70f40046-4c0a-452e-9f59-a6875e78e4fe" Title="Media Elements" Url="html/f436a412-378a-43ec-b798-24be086ceba7.htm">
+    <HelpTOCNode Id="38c7c1dc-cc5f-467b-a69a-1553e8346d92" Title="Media Elements" Url="html/f436a412-378a-43ec-b798-24be086ceba7.htm">
       <HelpTOCNode Title="&lt;mediaLink&gt;" Url="html/d3932f90-c4b6-405b-8b6a-5b0d40f534d7.htm" />
       <HelpTOCNode Title="&lt;mediaLinkInline&gt;" Url="html/522d44b1-5cd7-4403-987a-6f097fdc56ff.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="f669000d-07ca-459a-8bb3-fe9dce61f2fe" Title="Markdown" Url="html/a8e7fa0d-1cde-4d54-8999-90674b26f8d8.htm">
-    <HelpTOCNode Id="0895327e-768d-49c2-92c5-79f79ebe7411" Title="ATX-Style Headers" Url="html/49c9ae98-e954-41f8-b6e9-ad62637de12d.htm">
-      <HelpTOCNode Title="ATX-Style Topic Header" Url="html/a3e870f6-5589-477a-8505-95c641025855.htm" />
-      <HelpTOCNode Title="ATX-Style Section Header" Url="html/3dc5a651-829e-4c61-9325-7738980ed456.htm" />
+  <HelpTOCNode Id="a4bb367d-3855-438e-af52-276cad7008a8" Title="Markdown" Url="html/a8e7fa0d-1cde-4d54-8999-90674b26f8d8.htm">
+    <HelpTOCNode Id="8ec0284b-426f-4a16-ac64-7c26f2f91d4a" Title="Headers" Url="html/ee6bbac9-d239-468a-8e3f-c3512a5dbef0.htm">
+      <HelpTOCNode Id="d79b9a11-90d1-414d-94f6-1df7c81e1112" Title="ATX-Style Headers" Url="html/49c9ae98-e954-41f8-b6e9-ad62637de12d.htm">
+        <HelpTOCNode Title="ATX-Style Topic Header" Url="html/a3e870f6-5589-477a-8505-95c641025855.htm" />
+        <HelpTOCNode Title="ATX-Style Section Header" Url="html/3dc5a651-829e-4c61-9325-7738980ed456.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a4cc59e1-24e0-40b4-a7a9-14a3765bbd63" Title="Setext-Style Headers" Url="html/a45d9463-6a0b-4767-aacf-eb50e38ed722.htm">
+        <HelpTOCNode Title="Setext-Style Topic Header" Url="html/50005a18-8c9a-405b-82e7-efc76bb4eed1.htm" />
+        <HelpTOCNode Title="Setext-Style Section Header" Url="html/131f2864-f2bc-4170-a1a8-053bf3b83491.htm" />
+      </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Title="Definition List" Url="html/9dca27b6-77af-4749-a4be-e1b4767467b3.htm" />
-    <HelpTOCNode Title="Emphasis" Url="html/9bd38298-3699-4415-9853-dd58f9b5a5a3.htm" />
-    <HelpTOCNode Id="ea6f38c1-a59d-40cc-87bf-6b3db57a1218" Title="Images" Url="html/48782fa5-7847-4c47-9c54-ddb2731da049.htm">
+    <HelpTOCNode Id="33c219b1-9d99-46dc-bd13-97b4178975f1" Title="Block Elements" Url="html/c7cd0e90-2bec-4560-931b-db492b7c7358.htm">
+      <HelpTOCNode Title="Definition List" Url="html/9dca27b6-77af-4749-a4be-e1b4767467b3.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="7ebfa23d-6bcc-4b5e-98a3-03dc074b8235" Title="Images" Url="html/48782fa5-7847-4c47-9c54-ddb2731da049.htm">
       <HelpTOCNode Title="Block Image" Url="html/cfeda7ee-17b9-463b-9aa1-e5348e6a7b6c.htm" />
       <HelpTOCNode Title="Inline Image" Url="html/586fceda-0136-42e4-a7be-936b1181d007.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="fdf992de-f10d-4f89-b88a-45022c70576e" Title="Setext-Style Headers" Url="html/a45d9463-6a0b-4767-aacf-eb50e38ed722.htm">
-      <HelpTOCNode Title="Setext-Style Topic Header" Url="html/50005a18-8c9a-405b-82e7-efc76bb4eed1.htm" />
-      <HelpTOCNode Title="Setext-Style Section Header" Url="html/131f2864-f2bc-4170-a1a8-053bf3b83491.htm" />
+    <HelpTOCNode Id="5f320f47-0335-430a-bca4-b32d3da695e1" Title="Inline Elements" Url="html/e5433304-0e12-43e3-9094-3342c62f5dc8.htm">
+      <HelpTOCNode Title="Emphasis" Url="html/9bd38298-3699-4415-9853-dd58f9b5a5a3.htm" />
+      <HelpTOCNode Title="Subscript" Url="html/841b9bfc-e30c-4eb2-acf9-b3d1f2f9f54d.htm" />
+      <HelpTOCNode Title="Superscript" Url="html/52e90a26-9d60-4e91-b5f2-b8137b59a137.htm" />
+      <HelpTOCNode Title="Strong Emphasis" Url="html/ae554dc8-9444-4d91-a205-333b799a6939.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Title="Subscript" Url="html/841b9bfc-e30c-4eb2-acf9-b3d1f2f9f54d.htm" />
-    <HelpTOCNode Title="Superscript" Url="html/52e90a26-9d60-4e91-b5f2-b8137b59a137.htm" />
-    <HelpTOCNode Title="Strikethrough" Url="html/ea7640a4-5d11-494c-b307-d2dc9af2d5d0.htm" />
-    <HelpTOCNode Title="Strong Emphasis" Url="html/ae554dc8-9444-4d91-a205-333b799a6939.htm" />
+    <HelpTOCNode Id="32b70a10-5043-4d88-8d55-7c5c89a9707e" Title="Removed Elements" Url="html/886b4047-c78d-48b5-9be2-07f8a222c7ae.htm">
+      <HelpTOCNode Title="Strikethrough" Url="html/ea7640a4-5d11-494c-b307-d2dc9af2d5d0.htm" />
+    </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="b85d1a6f-9521-4fde-ac8f-cf616b20ce96" Title="Tools" Url="html/f05b62e4-4805-491a-ad2a-85545efbf6b9.htm">
+  <HelpTOCNode Id="1f2ab43a-899b-4e5f-bcb4-d8b9d8e6cf7a" Title="Tools" Url="html/f05b62e4-4805-491a-ad2a-85545efbf6b9.htm">
     <HelpTOCNode Title="AMDL to MAML Converter" Url="html/fc3d4a3c-76b2-487d-ba22-21f5aa07afde.htm" />
     <HelpTOCNode Title="MAML to AMDL Converter" Url="html/3aa7d932-6348-4151-80fa-f0df28976ae9.htm" />
   </HelpTOCNode>
