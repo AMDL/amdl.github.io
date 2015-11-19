@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shfbBuild product="Sandcastle Help File Builder and Tools" version="2015.10.10.0" projectFile="C:\Users\Dmitry\Documents\GitHub\AMDL\amdl2maml\amdl2maml\Maml.Documentation\Maml.Documentation.shfbproj" started="20/11/2015 00:52:06">
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2015.10.10.0" projectFile="C:\Users\Dmitry\Documents\GitHub\AMDL\amdl2maml\amdl2maml\Maml.Documentation\Maml.Documentation.shfbproj" started="20/11/2015 01:03:40">
 <buildStep step="Initializing">
 Finding tools...
 The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
@@ -18,6 +18,9 @@ Copyright &#169; 2006-2015, Eric Woodruff, All Rights Reserved
 Lightweight Website Style Version 2015.10.10.0
 Copyright &#169; 2006-2015, Eric Woodruff, All Rights Reserved
 Portions Copyright &#169; 2014, Sam Harwell, All Rights Reserved
+</buildStep>
+<buildStep step="ClearWorkFolder">
+Clearing working folder...
 -------------------------------
 Clearing any prior web/markdown output...
     Did not delete folder &#39;C:\Users\Dmitry\Documents\GitHub\AMDL\amdl.github.io\.git&#39; as it contains read-only or hidden folders/files
@@ -29,7 +32,7 @@ Validating and copying documentation source information
 <buildStep step="GenerateSharedContent">
 Generating shared content files (en-US, English (United States))...
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
-</plugIn>    Last step completed in 00:00:00.0050
+</plugIn>    Last step completed in 00:00:00.0060
 </buildStep>
 <buildStep step="GenerateApiFilter">
 Generating API filter for MRefBuilder...
@@ -44,7 +47,7 @@ Generating reflection information...
 <buildStep step="TransformReflectionInfo">
 Transforming reflection output...
 <plugIn name="Additional Content Only" behavior="InsteadOf" priority="1000">
-</plugIn>    Last step completed in 00:00:00.0010
+</plugIn>    Last step completed in 00:00:00.0000
 </buildStep>
 <buildStep step="GenerateNamespaceSummaries">
 Generating namespace summary information...
@@ -131,24 +134,24 @@ Generating conceptual topic files
     C:\Users\Dmitry\Documents\GitHub\AMDL\amdl2maml\amdl2maml\Maml.Documentation\Content\Markdown\Inline-Elements\Superscript.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AMDL\amdl.github.io\Working\ddueXml\52e90a26-9d60-4e91-b5f2-b8137b59a137.xml
     Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AMDL\amdl2maml\amdl2maml\Maml.Documentation\Content\Markdown\Inline-Elements\Strong-Emphasis.aml&#39;
     C:\Users\Dmitry\Documents\GitHub\AMDL\amdl2maml\amdl2maml\Maml.Documentation\Content\Markdown\Inline-Elements\Strong-Emphasis.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AMDL\amdl.github.io\Working\ddueXml\ae554dc8-9444-4d91-a205-333b799a6939.xml
-    Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AMDL\amdl2maml\amdl2maml\Maml.Documentation\Content\Markdown\Removed-Elements\Removed-Elements.aml&#39;
-    C:\Users\Dmitry\Documents\GitHub\AMDL\amdl2maml\amdl2maml\Maml.Documentation\Content\Markdown\Removed-Elements\Removed-Elements.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AMDL\amdl.github.io\Working\ddueXml\886b4047-c78d-48b5-9be2-07f8a222c7ae.xml
-    Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AMDL\amdl2maml\amdl2maml\Maml.Documentation\Content\Markdown\Removed-Elements\Strikethrough.aml&#39;
-    C:\Users\Dmitry\Documents\GitHub\AMDL\amdl2maml\amdl2maml\Maml.Documentation\Content\Markdown\Removed-Elements\Strikethrough.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AMDL\amdl.github.io\Working\ddueXml\ea7640a4-5d11-494c-b307-d2dc9af2d5d0.xml
+    Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AMDL\amdl2maml\amdl2maml\Maml.Documentation\Content\Markdown\Absent-Elements\Absent-Elements.aml&#39;
+    C:\Users\Dmitry\Documents\GitHub\AMDL\amdl2maml\amdl2maml\Maml.Documentation\Content\Markdown\Absent-Elements\Absent-Elements.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AMDL\amdl.github.io\Working\ddueXml\886b4047-c78d-48b5-9be2-07f8a222c7ae.xml
+    Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AMDL\amdl2maml\amdl2maml\Maml.Documentation\Content\Markdown\Absent-Elements\Strikethrough.aml&#39;
+    C:\Users\Dmitry\Documents\GitHub\AMDL\amdl2maml\amdl2maml\Maml.Documentation\Content\Markdown\Absent-Elements\Strikethrough.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AMDL\amdl.github.io\Working\ddueXml\ea7640a4-5d11-494c-b307-d2dc9af2d5d0.xml
     Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AMDL\amdl2maml\amdl2maml\Maml.Documentation\Content\Tools\Tools.aml&#39;
     C:\Users\Dmitry\Documents\GitHub\AMDL\amdl2maml\amdl2maml\Maml.Documentation\Content\Tools\Tools.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AMDL\amdl.github.io\Working\ddueXml\f05b62e4-4805-491a-ad2a-85545efbf6b9.xml
     Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AMDL\amdl2maml\amdl2maml\Maml.Documentation\Content\Tools\amdl2maml.aml&#39;
     C:\Users\Dmitry\Documents\GitHub\AMDL\amdl2maml\amdl2maml\Maml.Documentation\Content\Tools\amdl2maml.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AMDL\amdl.github.io\Working\ddueXml\fc3d4a3c-76b2-487d-ba22-21f5aa07afde.xml
     Parsing topic file &#39;C:\Users\Dmitry\Documents\GitHub\AMDL\amdl2maml\amdl2maml\Maml.Documentation\Content\Tools\maml2amdl.aml&#39;
     C:\Users\Dmitry\Documents\GitHub\AMDL\amdl2maml\amdl2maml\Maml.Documentation\Content\Tools\maml2amdl.aml -&gt; C:\Users\Dmitry\Documents\GitHub\AMDL\amdl.github.io\Working\ddueXml\3aa7d932-6348-4151-80fa-f0df28976ae9.xml
-    Last step completed in 00:00:00.4770
+    Last step completed in 00:00:00.4200
 </buildStep>
 <buildStep step="CreateConceptualTopicConfigs">
 Creating conceptual topic configuration files...
     Companion files
     _ContentMetadata_.xml
     ConceptualManifest.xml
-    Last step completed in 00:00:00.0790
+    Last step completed in 00:00:00.0880
 </buildStep>
 <buildStep step="CopyAdditionalContent">
 Copying additional content files...
@@ -158,12 +161,12 @@ C:\Users\Dmitry\Documents\GitHub\AMDL\amdl2maml\amdl2maml\Maml.Documentation\ico
 </buildStep>
 <buildStep step="MergeTablesOfContents">
 Merging conceptual and additional tables of contents...
-    Last step completed in 00:00:00.0000
+    Last step completed in 00:00:00.0010
 </buildStep>
 <buildStep step="GenerateIntermediateTableOfContents">
 Generating intermediate table of contents file...
 [C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe - GenerateIntermediateTOC.proj]
-Build started 20/11/2015 00:52:07.
+Build started 20/11/2015 01:03:41.
 Project &quot;C:\Users\Dmitry\Documents\GitHub\AMDL\amdl.github.io\Working\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
 GenerateIntermediateTOC:
   XslTransform (v2015.10.10.0)
@@ -176,13 +179,13 @@ Build succeeded.
 
 Time Elapsed 00:00:00.08
 Generating conceptual content intermediate TOC file...
-    Last step completed in 00:00:00.1540
+    Last step completed in 00:00:00.1610
 </buildStep>
 <buildStep step="CreateBuildAssemblerConfigs">
 Creating Sandcastle configuration files...
     sandcastle.config
     conceptual.config
-    Last step completed in 00:00:00.1210
+    Last step completed in 00:00:00.1060
 </buildStep>
 <buildStep step="MergeCustomConfigs">
 Merging custom build component configurations
@@ -190,12 +193,12 @@ C:\Users\Dmitry\Documents\GitHub\AMDL\amdl.github.io\Working\sandcastle.config
 C:\Users\Dmitry\Documents\GitHub\AMDL\amdl.github.io\Working\conceptual.config
     Removing unused ExampleComponent.
 <plugIn name="Additional Content Only" behavior="After" priority="1000">
-</plugIn>    Last step completed in 00:00:00.0220
+</plugIn>    Last step completed in 00:00:00.0250
 </buildStep>
 <buildStep step="BuildConceptualTopics">
 Building conceptual help topics...
 [C:\Program Files (x86)\MSBuild\12.0\bin\MSBuild.exe - BuildConceptualTopics.proj]
-Build started 20/11/2015 00:52:07.
+Build started 20/11/2015 01:03:42.
 Project &quot;C:\Users\Dmitry\Documents\GitHub\AMDL\amdl.github.io\Working\BuildConceptualTopics.proj&quot; on node 1 (default targets).
 BuildConceptualTopics:
   BuildAssembler (v2015.10.10.0)
@@ -209,13 +212,13 @@ Done Building Project &quot;C:\Users\Dmitry\Documents\GitHub\AMDL\amdl.github.io
 
 Build succeeded.
 
-Time Elapsed 00:00:01.64
-    Last step completed in 00:00:01.7051
+Time Elapsed 00:00:01.71
+    Last step completed in 00:00:01.7791
 </buildStep>
 <buildStep step="BuildReferenceTopics">
 Building reference help topics...
 <plugIn name="Additional Content Only" behavior="InsteadOf" priority="1000">
-</plugIn>    Last step completed in 00:00:00.0010
+</plugIn>    Last step completed in 00:00:00.0000
 </buildStep>
 <buildStep step="CombiningIntermediateTocFiles">
 Combining conceptual and API intermediate TOC files...
@@ -241,7 +244,7 @@ Processed 41 HTML files
 Sorting keywords and generating See Also indices
 Saving website keyword index to C:\Users\Dmitry\Documents\GitHub\AMDL\amdl.github.io\Working\WebKI.xml
 Saving website table of contents to C:\Users\Dmitry\Documents\GitHub\AMDL\amdl.github.io\Working\WebTOC.xml
-    Last step completed in 00:00:00.2390
+    Last step completed in 00:00:00.2280
 </buildStep>
 <buildStep step="CopyStandardHelpContent">
 Copying standard help content...
@@ -382,11 +385,11 @@ C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyle
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocOpen.gif -&gt; C:\Users\Dmitry\Documents\GitHub\AMDL\amdl.github.io\Working\Output\Website\icons\TocOpen.gif
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\branding-Website.js -&gt; C:\Users\Dmitry\Documents\GitHub\AMDL\amdl.github.io\Working\Output\Website\scripts\branding-Website.js
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\jquery-1.11.0.min.js -&gt; C:\Users\Dmitry\Documents\GitHub\AMDL\amdl.github.io\Working\Output\Website\scripts\jquery-1.11.0.min.js
-    Last step completed in 00:00:00.8440
+    Last step completed in 00:00:00.9051
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating HTML Help 1 table of contents file...
-    Last step completed in 00:00:00.0000
+    Last step completed in 00:00:00.0010
 </buildStep>
 <buildStep step="GenerateHelpFileIndex">
 Generating HTML Help 1 index file...
@@ -394,7 +397,7 @@ Generating HTML Help 1 index file...
 </buildStep>
 <buildStep step="GenerateHelpProject">
 Generating HTML Help 1 project file...
-    Last step completed in 00:00:00.0020
+    Last step completed in 00:00:00.0030
 </buildStep>
 <buildStep step="CompilingHelpFile">
 Compiling HTML Help 1 file...
@@ -423,11 +426,11 @@ Compiling HTML Help 1 file...
   
   
   
-  Created c:\Users\Dmitry\Documents\GitHub\AMDL\amdl.github.io\Working\Output\HtmlHelp1\AMDL.chm, 102,619 bytes
+  Created c:\Users\Dmitry\Documents\GitHub\AMDL\amdl.github.io\Working\Output\HtmlHelp1\AMDL.chm, 102,647 bytes
   
-  Compression decreased file by 210,928 bytes.
+  Compression decreased file by 210,931 bytes.
   
-    Last step completed in 00:00:00.5600
+    Last step completed in 00:00:00.7160
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating website table of contents file...
@@ -438,21 +441,21 @@ Generating full-text index for the website...
 
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
 Adding lightweight search and TOC elements to each topic...
-</plugIn>    Last step completed in 00:00:00.2690
+</plugIn>    Last step completed in 00:00:00.3130
 </buildStep>
 <buildStep step="CopyingWebsiteFiles">
 Copying website files to output folder...
 
 Copied 159 files for the website content
-    Last step completed in 00:00:00.3040
+    Last step completed in 00:00:00.3820
 </buildStep>
 <buildStep step="CleanIntermediates">
 Removing intermediate files...
-    Last step completed in 00:00:00.2370
+    Last step completed in 00:00:00.2450
 </buildStep>
 <buildStep step="Completed">
 
-Build completed successfully at 20/11/2015 00:52:11.  Total time: 00:00:05.6693
+Build completed successfully at 20/11/2015 01:03:46.  Total time: 00:00:05.9833
 
 </buildStep>
 </shfbBuild>
