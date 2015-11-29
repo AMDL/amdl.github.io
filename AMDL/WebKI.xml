@@ -7,10 +7,8 @@
   <HelpKINode Title="Amdl.Maml.Converter.TopicData class" Url="html/b7cedcfa-2859-7899-7b1b-a798b5bb5704.htm" />
   <HelpKINode Title="Amdl.Maml.Converter.TopicParser class" Url="html/d3f177b8-e607-90e7-6c50-e010a2358fc1.htm" />
   <HelpKINode Title="Amdl.Maml.Converter.TopicParserResult class" Url="html/7a1ba741-1c04-a8d0-3287-7006dc0953ac.htm" />
-  <HelpKINode Title="Amdl.Maml.Converter.TopicType enumeration" Url="html/e1e81741-5a8e-2925-b403-f51dffd25db7.htm" />
   <HelpKINode Title="Amdl.Maml.Converter.TopicUpdater class" Url="html/fd421411-48f4-df30-6d3b-667b2eee9739.htm" />
   <HelpKINode Title="ConvertAsync method" Url="html/b21e8622-44b8-953f-f5a5-271be7e5bab4.htm" />
-  <HelpKINode Title="Empty enumeration member" Url="html/e1e81741-5a8e-2925-b403-f51dffd25db7.htm" />
   <HelpKINode Title="FileName property" Url="html/bf833770-2bdd-e60b-f945-89c81a2b5c06.htm" />
   <HelpKINode Title="FolderIndexer class">
     <HelpKINode Title="FolderIndexer Class" Url="html/a93180fd-4f5d-5126-66d3-90a521784388.htm" />
@@ -18,9 +16,6 @@
     <HelpKINode Title="methods" Url="html/a2fc435a-c840-9179-abcf-6652928c6d04.htm" />
   </HelpKINode>
   <HelpKINode Title="FolderIndexer.IndexAsync method" Url="html/4b62b9b9-543c-7445-f222-a44b8b0e5840.htm" />
-  <HelpKINode Title="General enumeration member" Url="html/e1e81741-5a8e-2925-b403-f51dffd25db7.htm" />
-  <HelpKINode Title="Glossary enumeration member" Url="html/e1e81741-5a8e-2925-b403-f51dffd25db7.htm" />
-  <HelpKINode Title="HowTo enumeration member" Url="html/e1e81741-5a8e-2925-b403-f51dffd25db7.htm" />
   <HelpKINode Title="Id property" Url="html/970ee88a-bf6d-174e-9591-3d0395b910af.htm" />
   <HelpKINode Title="IndexAsync method">
     <HelpKINode Title="FolderIndexer.IndexAsync Method " Url="html/4b62b9b9-543c-7445-f222-a44b8b0e5840.htm" />
@@ -35,7 +30,6 @@
   <HelpKINode Title="LayoutIndexer.IndexAsync method" Url="html/7ac14f4c-ac52-553d-b860-41e6b179f4fa.htm" />
   <HelpKINode Title="LayoutIndexer.LayoutIndexer constructor" Url="html/721a45be-6dd6-5b01-1403-0a89576381e0.htm" />
   <HelpKINode Title="Name property" Url="html/cc630958-557c-fe7b-a0d8-62c53e8a3fde.htm" />
-  <HelpKINode Title="Orientation enumeration member" Url="html/e1e81741-5a8e-2925-b403-f51dffd25db7.htm" />
   <HelpKINode Title="ParseAsync method" Url="html/e198b160-46ad-6a74-0a3b-b1bdf3744df4.htm" />
   <HelpKINode Title="ParserResult property" Url="html/ffe61901-8a97-af0b-d75a-2b6dd25b2ac4.htm" />
   <HelpKINode Title="RelativePath property" Url="html/2a7ada28-0c7d-3a95-e881-cbad4b014ce3.htm" />
@@ -51,7 +45,7 @@
   <HelpKINode Title="TopicData class">
     <HelpKINode Title="TopicData Class" Url="html/b7cedcfa-2859-7899-7b1b-a798b5bb5704.htm" />
     <HelpKINode Title="about TopicData class" Url="html/b7cedcfa-2859-7899-7b1b-a798b5bb5704.htm" />
-    <HelpKINode Title="constructor" Url="html/fb9dad12-4b86-e0b5-a709-86558bff277c.htm" />
+    <HelpKINode Title="constructor" Url="html/6680b708-9a96-91b4-aef7-0b3828061d1c.htm" />
     <HelpKINode Title="methods" Url="html/83eda2db-7e05-1897-b5cd-42be32e71f8e.htm" />
     <HelpKINode Title="properties" Url="html/4487d4e0-a6c6-ff84-11b8-7a5e4309a046.htm" />
   </HelpKINode>
@@ -61,7 +55,7 @@
   <HelpKINode Title="TopicData.ParserResult property" Url="html/ffe61901-8a97-af0b-d75a-2b6dd25b2ac4.htm" />
   <HelpKINode Title="TopicData.RelativePath property" Url="html/2a7ada28-0c7d-3a95-e881-cbad4b014ce3.htm" />
   <HelpKINode Title="TopicData.Title property" Url="html/4b1318de-79b7-4e62-4f05-042f681e8f5e.htm" />
-  <HelpKINode Title="TopicData.TopicData constructor" Url="html/fb9dad12-4b86-e0b5-a709-86558bff277c.htm" />
+  <HelpKINode Title="TopicData.TopicData constructor" Url="html/6680b708-9a96-91b4-aef7-0b3828061d1c.htm" />
   <HelpKINode Title="TopicData.Type property" Url="html/339de7ba-a184-7473-8cce-84844edbb2f6.htm" />
   <HelpKINode Title="TopicParser class">
     <HelpKINode Title="TopicParser Class" Url="html/d3f177b8-e607-90e7-6c50-e010a2358fc1.htm" />
@@ -76,7 +70,6 @@
     <HelpKINode Title="about TopicParserResult class" Url="html/7a1ba741-1c04-a8d0-3287-7006dc0953ac.htm" />
     <HelpKINode Title="methods" Url="html/a71a3b86-7bd7-57bd-f686-eca870d8c066.htm" />
   </HelpKINode>
-  <HelpKINode Title="TopicType enumeration" Url="html/e1e81741-5a8e-2925-b403-f51dffd25db7.htm" />
   <HelpKINode Title="TopicUpdater class">
     <HelpKINode Title="TopicUpdater Class" Url="html/fd421411-48f4-df30-6d3b-667b2eee9739.htm" />
     <HelpKINode Title="about TopicUpdater class" Url="html/fd421411-48f4-df30-6d3b-667b2eee9739.htm" />
