@@ -3,12 +3,12 @@
 
   <HelpTOCNode Title="Welcome" Url="html/8105a28b-0627-4b9e-97f6-5cd978f4d128.htm" />
   <HelpTOCNode Title="Design Principles" Url="html/d8f382af-8f28-4e32-98a2-6f8e7ddf2cf5.htm" />
-  <HelpTOCNode Id="4d22ba93-de8c-4401-9fed-20fafc91769d" Title="MAML" Url="html/580efa0a-5f59-441d-9def-b2de59d71159.htm">
-    <HelpTOCNode Id="16cd71f6-7f46-41f2-9018-0f55e5d60793" Title="File Types" Url="html/a315dbfe-62a7-4b06-b0b8-1db77bbc5ec6.htm">
+  <HelpTOCNode Id="bd4902c7-3c0a-482f-b271-6ab4f3e4775c" Title="MAML" Url="html/580efa0a-5f59-441d-9def-b2de59d71159.htm">
+    <HelpTOCNode Id="b1758c3f-2686-4a34-859c-cce837422d9b" Title="File Types" Url="html/a315dbfe-62a7-4b06-b0b8-1db77bbc5ec6.htm">
       <HelpTOCNode Title="Topic File" Url="html/f3a5769b-14ba-479d-b1b8-411a49dd09cb.htm" />
       <HelpTOCNode Title="Companion File" Url="html/656a514d-7624-476c-a218-b6596532e0ae.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="5cc722e9-f9bc-4592-9112-5ad116cba5a6" Title="Block Elements" Url="html/7304a0d6-08bc-4ff6-83b5-7ea97b5c70cf.htm">
+    <HelpTOCNode Id="159486e1-b7c8-4d2a-a1c6-194dfae32b19" Title="Block Elements" Url="html/7304a0d6-08bc-4ff6-83b5-7ea97b5c70cf.htm">
       <HelpTOCNode Title="&lt;alert&gt;" Url="html/cc3f9eaa-6fc5-43a6-951f-c775b8911975.htm" />
       <HelpTOCNode Title="&lt;code&gt;" Url="html/c811c110-0cb2-4737-abd7-3b3239ec3169.htm" />
       <HelpTOCNode Title="&lt;definitionTable&gt;, &lt;definedTerm&gt;, &lt;definition&gt;" Url="html/632e17ce-26cf-4455-a6ee-31e9dac8f05a.htm" />
@@ -16,7 +16,7 @@
       <HelpTOCNode Title="&lt;summary&gt;" Url="html/4092517c-098d-4680-9efe-eaf5bb5019c0.htm" />
       <HelpTOCNode Title="&lt;title&gt;" Url="html/6d46de4d-af1f-4b1d-9022-2d2a15f88482.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="620e201d-67c4-47fb-a1bf-4dff0009bae9" Title="Inline Elements" Url="html/41249bf2-dc38-4072-b367-4e13526f29a7.htm">
+    <HelpTOCNode Id="0a7c2292-bc35-4339-9ed4-8bdaa3daca18" Title="Inline Elements" Url="html/41249bf2-dc38-4072-b367-4e13526f29a7.htm">
       <HelpTOCNode Title="&lt;command&gt;" Url="html/7e481063-7390-4e4b-a2d6-006764a1a5b6.htm" />
       <HelpTOCNode Title="&lt;codeInline&gt;" Url="html/482215cc-37a2-489b-be05-48edde4d1851.htm" />
       <HelpTOCNode Title="&lt;legacyBold&gt;" Url="html/d348035c-2667-432b-9084-16544290874d.htm" />
@@ -31,16 +31,16 @@
       <HelpTOCNode Title="&lt;system&gt;" Url="html/11204e44-240f-4ea3-8348-dd22ceec41ae.htm" />
       <HelpTOCNode Title="&lt;unmanagedCodeEntityReference&gt;" Url="html/69590c8c-f7e2-4e3e-8456-4ac38517c894.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="f872de35-44e6-4f5f-8d68-f94464bf0af0" Title="Media Elements" Url="html/f436a412-378a-43ec-b798-24be086ceba7.htm">
+    <HelpTOCNode Id="f62021f8-f111-4d4c-a511-028df17b0e30" Title="Media Elements" Url="html/f436a412-378a-43ec-b798-24be086ceba7.htm">
       <HelpTOCNode Title="&lt;mediaLink&gt;" Url="html/d3932f90-c4b6-405b-8b6a-5b0d40f534d7.htm" />
       <HelpTOCNode Title="&lt;mediaLinkInline&gt;" Url="html/522d44b1-5cd7-4403-987a-6f097fdc56ff.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="0342299f-6d9d-4c55-8cca-7cdf901f2842" Title="Structure" Url="html/0ff091f1-423f-486c-99fc-777c8aa8bad7.htm">
-    <HelpTOCNode Id="995a22da-0893-4a8c-8100-a65879ad787c" Title="Metadata">
+  <HelpTOCNode Id="306c4e1b-c1c3-44d8-9f4d-93bbea44aa17" Title="Structure" Url="html/0ff091f1-423f-486c-99fc-777c8aa8bad7.htm">
+    <HelpTOCNode Id="5bfd2f74-f158-4970-a052-15e7310e90c1" Title="Metadata">
       <HelpTOCNode Title="Topic Metadata" Url="html/f744d653-f95c-412f-b281-80be77f4913e.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="075e3975-c6e3-4c89-a22b-ccf068bff4a1" Title="Topic Types" Url="html/3f8f2890-4623-4559-a188-11688942c6e2.htm">
+    <HelpTOCNode Id="121ccd8b-7187-4584-adad-02e562d1e3bf" Title="Topic Types" Url="html/3f8f2890-4623-4559-a188-11688942c6e2.htm">
       <HelpTOCNode Title="Empty Topic" Url="html/3df186a0-8f72-4d95-a987-2fed5cfe5cc6.htm" />
       <HelpTOCNode Title="General Topic" Url="html/a7cc2634-ecd5-4902-8738-52fff958500f.htm" />
       <HelpTOCNode Title="Glossary Topic" Url="html/9b67c50a-e534-4b9c-a9b5-947ef7486587.htm" />
@@ -48,8 +48,8 @@
       <HelpTOCNode Title="Orientation Topic" Url="html/f855b674-feeb-40c3-b363-e2610609855f.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="eb8039dd-d9db-4055-9aba-529c20fb238e" Title="Markdown" Url="html/a8e7fa0d-1cde-4d54-8999-90674b26f8d8.htm">
-    <HelpTOCNode Id="e5f3c1a0-98ab-4d20-89dc-3d4c8cbfd23b" Title="Block Elements" Url="html/c7cd0e90-2bec-4560-931b-db492b7c7358.htm">
+  <HelpTOCNode Id="e01d9a91-a10d-4582-8c25-3ff276cfad50" Title="Markdown" Url="html/a8e7fa0d-1cde-4d54-8999-90674b26f8d8.htm">
+    <HelpTOCNode Id="bf5c743f-4743-4ef7-af33-05dbb7c91f51" Title="Block Elements" Url="html/c7cd0e90-2bec-4560-931b-db492b7c7358.htm">
       <HelpTOCNode Title="Alert" Url="html/172094ac-632c-41d2-89a5-9b4263932d8c.htm" />
       <HelpTOCNode Title="Container" Url="html/fce8ac26-02b3-434f-9376-c9fb0192da5f.htm" />
       <HelpTOCNode Title="Definition List" Url="html/9dca27b6-77af-4749-a4be-e1b4767467b3.htm" />
@@ -58,7 +58,7 @@
       <HelpTOCNode Title="Section Header" Url="html/e1613da4-e793-4fac-9728-6f52e04ee4ea.htm" />
       <HelpTOCNode Title="Topic Header" Url="html/1d0d8c98-df89-4db8-8b85-2a8ec5e7a7ee.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="fb6cb879-9ee7-4e80-99d8-dd8200bf5a2b" Title="Inline Elements" Url="html/e5433304-0e12-43e3-9094-3342c62f5dc8.htm">
+    <HelpTOCNode Id="612cfa74-0e46-4bea-8a34-bb78e477fadf" Title="Inline Elements" Url="html/e5433304-0e12-43e3-9094-3342c62f5dc8.htm">
       <HelpTOCNode Title="Code" Url="html/ed745174-03e2-4af4-a001-10d84b0a0fdb.htm" />
       <HelpTOCNode Title="Math" Url="html/9e536771-09e5-4490-908c-1fd06eb54459.htm" />
       <HelpTOCNode Title="New Term" Url="html/a61bf961-b3cd-45d2-861b-ca12b59106c4.htm" />
@@ -69,46 +69,71 @@
       <HelpTOCNode Title="Special Strong Emphasis" Url="html/7958aedc-83cb-417d-9c23-dd8a5be6d821.htm" />
       <HelpTOCNode Title="Special Weak Emphasis" Url="html/35b59fef-c95a-4d45-b9b0-faa3775814c7.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="feff713b-1a73-4db1-9d72-25461403c91d" Title="Link Elements" Url="html/4650d9b1-92cc-46dc-88ee-4b234fd1af78.htm">
-      <HelpTOCNode Id="b2cfad97-09a8-4bf1-b5b1-7161c8135e61" Title="Code Links" Url="html/36f3beb8-5259-44e2-a41e-43080fdf28b9.htm">
-        <HelpTOCNode Title="Namespace Link" Url="html/1e88e196-f485-4b80-b559-0499e03dec54.htm" />
-        <HelpTOCNode Title="Type Link" Url="html/d38f5687-e8c7-4035-9e3f-28e9f7b569ec.htm" />
-        <HelpTOCNode Title="Field Link" Url="html/02e3c06a-c7b6-43df-aece-af9ccc5dac39.htm" />
+    <HelpTOCNode Id="21fc2d78-9ae1-4836-8414-baf56aa441a3" Title="Link Elements" Url="html/4650d9b1-92cc-46dc-88ee-4b234fd1af78.htm">
+      <HelpTOCNode Id="5e08824b-7853-4e9c-86e3-da3e9c5f083c" Title="Code Links" Url="html/36f3beb8-5259-44e2-a41e-43080fdf28b9.htm">
         <HelpTOCNode Title="Event Link" Url="html/7636267d-0ad2-43da-ae0d-035fb3a16887.htm" />
-        <HelpTOCNode Title="Property Link" Url="html/35365556-1d87-4621-bad3-ff5309b10cc2.htm" />
+        <HelpTOCNode Title="Field Link" Url="html/02e3c06a-c7b6-43df-aece-af9ccc5dac39.htm" />
         <HelpTOCNode Title="Method Link" Url="html/5c5214c5-e1ce-482f-ba4d-87f4db8f0516.htm" />
+        <HelpTOCNode Title="Namespace Link" Url="html/1e88e196-f485-4b80-b559-0499e03dec54.htm" />
+        <HelpTOCNode Title="Property Link" Url="html/35365556-1d87-4621-bad3-ff5309b10cc2.htm" />
+        <HelpTOCNode Title="Type Link" Url="html/d38f5687-e8c7-4035-9e3f-28e9f7b569ec.htm" />
         <HelpTOCNode Title="Unmanaged Link" Url="html/cc445173-77d6-4367-b061-643eff15caa6.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Title="Images" Url="html/904e67be-229f-41b6-b66d-04da156f6ecf.htm" />
+    <HelpTOCNode Id="ba2732e6-0e5b-408d-9aac-29433508040b" Title="Image Elements" Url="html/4b496691-3953-498d-b0b5-d65a754bc56e.htm">
+      <HelpTOCNode Title="Block Image" Url="html/6ca84d07-2ee5-42f5-a8e1-29e50e828157.htm" />
+      <HelpTOCNode Title="Inline Image" Url="html/4e623dcd-0446-4408-a5b3-26a75da50a36.htm" />
+    </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="a1f4ddb7-b0be-43c0-a47b-10591b25f0f1" Title="Tools" Url="html/f05b62e4-4805-491a-ad2a-85545efbf6b9.htm">
-    <HelpTOCNode Id="4452247b-0a9f-405f-bbb1-54715ffb329b" Title="AMDL to MAML Converter" Url="html/fc3d4a3c-76b2-487d-ba22-21f5aa07afde.htm">
+  <HelpTOCNode Id="ff30a5c4-da8f-4805-aa67-b9994da4cd0e" Title="Tools" Url="html/f05b62e4-4805-491a-ad2a-85545efbf6b9.htm">
+    <HelpTOCNode Id="65d6d904-d0fc-49e2-9fdd-a150a6ef10f3" Title="AMDL to MAML Converter" Url="html/fc3d4a3c-76b2-487d-ba22-21f5aa07afde.htm">
+      <HelpTOCNode Title="Usage" Url="html/d5905730-7893-4505-b64d-b0af278664a3.htm" />
       <HelpTOCNode Title="License" Url="html/b5a804b7-2daa-42a5-b578-c604cc17f3a2.htm" />
-      <HelpTOCNode Id="eaa63064-33ad-4ed9-93a3-b2fce3137a03" Title="Amdl.Maml.Converter" Url="html/309e5d20-f51e-a0af-f360-b5577f5d8975.htm">
-        <HelpTOCNode Id="99ad23e5-2dcc-419a-8a9e-43af8f64264e" Title="FolderIndexer Class" Url="html/a93180fd-4f5d-5126-66d3-90a521784388.htm">
-          <HelpTOCNode Id="0807374c-3f8d-4ebf-af7a-cd63f0ab9faf" Title="FolderIndexer Methods" Url="html/a2fc435a-c840-9179-abcf-6652928c6d04.htm">
-            <HelpTOCNode Title="IndexAsync Method " Url="html/4b62b9b9-543c-7445-f222-a44b8b0e5840.htm" />
+      <HelpTOCNode Id="1a09a646-381c-4a9c-8c1d-10683db8477c" Title="Amdl.Maml.Converter" Url="html/309e5d20-f51e-a0af-f360-b5577f5d8975.htm">
+        <HelpTOCNode Id="4bb1c270-2e11-424f-9871-b61271640839" Title="FolderIndexer Class" Url="html/a93180fd-4f5d-5126-66d3-90a521784388.htm">
+          <HelpTOCNode Id="7fc80884-21d7-449e-bf65-e88fef0b998c" Title="FolderIndexer Methods" Url="html/a2fc435a-c840-9179-abcf-6652928c6d04.htm">
+            <HelpTOCNode Title="IndexAsync Method " Url="html/da799b2f-a230-fa4d-e34a-b900cc8bc897.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="7a73a1dd-5ca9-4131-940b-ceefa9334db2" Title="LayoutIndexer Class" Url="html/b54edb8a-e5b7-9164-180b-bc70dafe3952.htm">
-          <HelpTOCNode Title="LayoutIndexer Constructor " Url="html/721a45be-6dd6-5b01-1403-0a89576381e0.htm" />
-          <HelpTOCNode Id="6c7ebe8d-e25d-4f24-b9d5-706b153dfeac" Title="LayoutIndexer Methods" Url="html/a556bd8a-32e5-b0e9-3d45-effd428a3011.htm">
-            <HelpTOCNode Title="IndexAsync Method " Url="html/7ac14f4c-ac52-553d-b860-41e6b179f4fa.htm" />
+        <HelpTOCNode Id="178ff590-54d2-4f48-8dcc-61a698a6d13f" Title="Indicator Structure" Url="html/eddc6701-6070-5741-fa91-47c4c0f25db3.htm">
+          <HelpTOCNode Id="b4364ae6-d599-46a1-8e8b-f8f521d0f0de" Title="Indicator Properties" Url="html/d64047f6-2d87-916d-9593-c768c196a24f.htm">
+            <HelpTOCNode Title="Count Property " Url="html/4efe315a-0673-f977-e406-201489b5fadd.htm" />
+            <HelpTOCNode Title="Index Property " Url="html/5449005f-19c7-609a-d189-5348cd079cbf.htm" />
+            <HelpTOCNode Title="Name Property " Url="html/bf4dfc40-f917-4340-40b9-b82b8b6abfb2.htm" />
           </HelpTOCNode>
-        </HelpTOCNode>
-        <HelpTOCNode Id="ad273bdb-b165-4282-a1ec-87a74aa932e0" Title="TopicConverter Class" Url="html/4c541633-3faa-9784-8bf6-dde644e827ae.htm">
-          <HelpTOCNode Title="TopicConverter Constructor " Url="html/badb3331-cf12-5185-37e8-88f0ee7741ef.htm" />
-          <HelpTOCNode Id="30f0dbfe-e21f-4a43-a776-730f8c99abec" Title="TopicConverter Methods" Url="html/ba8c3485-91a4-a1ba-c46f-e0bd4e8b23aa.htm">
-            <HelpTOCNode Id="5a8fa3dc-1637-49f3-9928-c015e9c799b4" Title="ConvertAsync Method " Url="html/b21e8622-44b8-953f-f5a5-271be7e5bab4.htm">
-              <HelpTOCNode Title="ConvertAsync Method (TopicData, String, String, IDictionary(String, TopicData), CancellationToken)" Url="html/8a3c7b01-17bf-5f44-ee64-3f6c8b29d6eb.htm" />
-              <HelpTOCNode Title="ConvertAsync Method (IEnumerable(TopicData), String, String, IDictionary(String, TopicData), CancellationToken, IProgress(Int32))" Url="html/6ace545c-28f1-d44c-7996-46ea128942cd.htm" />
+          <HelpTOCNode Id="001e54c4-db73-4016-a9cd-84f1179bcb0a" Title="Indicator Methods" Url="html/2c35fa69-d565-02e7-be51-0bbac5063499.htm">
+            <HelpTOCNode Id="1e18c719-b247-4d90-9628-84c8f5766f44" Title="Report Method " Url="html/02004a3e-3dcb-4d2b-8b2b-c2aa0b869923.htm">
+              <HelpTOCNode Title="Report Method (IProgress(Indicator), Int32, Int32, Func(String))" Url="html/9cdf4a81-fbb1-6584-607b-34deb5c74d90.htm" />
+              <HelpTOCNode Title="Report Method (IProgress(Indicator), Int32, Int32, String)" Url="html/2ece668c-6154-5f6f-25a3-7d980a466a41.htm" />
             </HelpTOCNode>
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="28acdbe8-4309-45d1-bc5b-7c2e3aa5925f" Title="TopicData Class" Url="html/b7cedcfa-2859-7899-7b1b-a798b5bb5704.htm">
+        <HelpTOCNode Id="646e2767-b5c6-4ea4-8397-7056edbfa499" Title="LayoutIndexer Class" Url="html/b54edb8a-e5b7-9164-180b-bc70dafe3952.htm">
+          <HelpTOCNode Title="LayoutIndexer Constructor " Url="html/721a45be-6dd6-5b01-1403-0a89576381e0.htm" />
+          <HelpTOCNode Id="6ebdb369-caa1-409a-9afb-81797ca9187d" Title="LayoutIndexer Methods" Url="html/a556bd8a-32e5-b0e9-3d45-effd428a3011.htm">
+            <HelpTOCNode Title="IndexAsync Method " Url="html/30aa0117-dd49-3c97-c4b5-cf98042de753.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="906dee7d-f3b3-4c3d-a23c-ee86662d20bc" Title="Paths Structure" Url="html/864fc8f8-2e9c-1b76-3c0f-a60c636dbead.htm">
+          <HelpTOCNode Id="9a489d71-66ac-46b7-8ee5-0d9a501b0af0" Title="Paths Properties" Url="html/237a95af-c3bd-e56a-8573-ca6a4bc6d901.htm">
+            <HelpTOCNode Title="ContentLayout Property " Url="html/e696c727-6348-e9be-881d-f89ae23d0067.htm" />
+            <HelpTOCNode Title="Destination Property " Url="html/e3a0465c-ed92-c5c7-639c-a60b67683038.htm" />
+            <HelpTOCNode Title="Source Property " Url="html/d9b34f96-5430-3efe-d088-fded3b86302c.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="Paths Methods" Url="html/574b3103-ee16-d86b-639f-869ec577b863.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="806aa150-ad7d-4bde-ac67-78cee96236d8" Title="TopicConverter Class" Url="html/4c541633-3faa-9784-8bf6-dde644e827ae.htm">
+          <HelpTOCNode Title="TopicConverter Constructor " Url="html/badb3331-cf12-5185-37e8-88f0ee7741ef.htm" />
+          <HelpTOCNode Id="87a871a1-76e8-4034-875e-25295788fd5f" Title="TopicConverter Methods" Url="html/ba8c3485-91a4-a1ba-c46f-e0bd4e8b23aa.htm">
+            <HelpTOCNode Id="3afb4603-aa3f-493a-9293-69e416283587" Title="ConvertAsync Method " Url="html/b21e8622-44b8-953f-f5a5-271be7e5bab4.htm">
+              <HelpTOCNode Title="ConvertAsync Method (Paths, IDictionary(String, TopicData), CancellationToken, IProgress(Indicator))" Url="html/ac9a587b-e016-6557-b91a-dca85f5ffb58.htm" />
+              <HelpTOCNode Title="ConvertAsync Method (TopicData, Paths, IDictionary(String, TopicData), CancellationToken, IProgress(Indicator), Int32, Int32)" Url="html/518cd322-519a-5564-903b-2a2a7c679114.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="60d98792-dfd9-454a-ba25-3f94959eeba1" Title="TopicData Class" Url="html/b7cedcfa-2859-7899-7b1b-a798b5bb5704.htm">
           <HelpTOCNode Title="TopicData Constructor " Url="html/6680b708-9a96-91b4-aef7-0b3828061d1c.htm" />
-          <HelpTOCNode Id="3dea191b-7e83-43b7-a89d-1ec80bfa8c6d" Title="TopicData Properties" Url="html/4487d4e0-a6c6-ff84-11b8-7a5e4309a046.htm">
+          <HelpTOCNode Id="8c18d0f1-60a1-4ae8-a4a3-15f0e02aebdf" Title="TopicData Properties" Url="html/4487d4e0-a6c6-ff84-11b8-7a5e4309a046.htm">
             <HelpTOCNode Title="FileName Property " Url="html/bf833770-2bdd-e60b-f945-89c81a2b5c06.htm" />
             <HelpTOCNode Title="Id Property " Url="html/970ee88a-bf6d-174e-9591-3d0395b910af.htm" />
             <HelpTOCNode Title="Name Property " Url="html/cc630958-557c-fe7b-a0d8-62c53e8a3fde.htm" />
@@ -119,18 +144,31 @@
           </HelpTOCNode>
           <HelpTOCNode Title="TopicData Methods" Url="html/83eda2db-7e05-1897-b5cd-42be32e71f8e.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="bcb001d9-c8f8-4990-a23c-35abc9cae067" Title="TopicParser Class" Url="html/d3f177b8-e607-90e7-6c50-e010a2358fc1.htm">
-          <HelpTOCNode Title="TopicParser Constructor " Url="html/08eca18a-76de-edad-056f-ba73551d9636.htm" />
-          <HelpTOCNode Id="5f6ce1a1-0f14-4596-8d01-9b6cfdaf32a6" Title="TopicParser Methods" Url="html/47497dc2-55a9-9505-1ceb-3c512cf9e9d7.htm">
-            <HelpTOCNode Title="ParseAsync Method " Url="html/e198b160-46ad-6a74-0a3b-b1bdf3744df4.htm" />
+        <HelpTOCNode Id="d9320bf4-8a1c-4f45-8961-0343d26ee0bc" Title="TopicMatcher Class" Url="html/493e63a2-138b-9399-d207-126106278c5b.htm">
+          <HelpTOCNode Id="6f3c09ca-5d79-4541-86ca-b1be7e140310" Title="TopicMatcher Methods" Url="html/5ce6703c-6270-6fc4-ecc7-ffdb897c1154.htm">
+            <HelpTOCNode Title="MatchAsync Method " Url="html/16ecc15c-0453-4860-7ff4-6ed09d5ab284.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="1f766697-aebd-4d8b-9050-c196e46fbe4a" Title="TopicParserResult Class" Url="html/7a1ba741-1c04-a8d0-3287-7006dc0953ac.htm">
+        <HelpTOCNode Id="f48b379d-e2a4-45c7-9a84-cdde46dfec4e" Title="TopicParser Class" Url="html/d3f177b8-e607-90e7-6c50-e010a2358fc1.htm">
+          <HelpTOCNode Title="TopicParser Constructor " Url="html/08eca18a-76de-edad-056f-ba73551d9636.htm" />
+          <HelpTOCNode Id="7be5ccc5-f9ff-474d-af7f-61b529b512f4" Title="TopicParser Methods" Url="html/47497dc2-55a9-9505-1ceb-3c512cf9e9d7.htm">
+            <HelpTOCNode Id="702e0e9a-47d0-4b11-87f9-11f6fe987fcb" Title="ParseAsync Method " Url="html/a0c7a5ba-d97d-ec49-ecdd-de06d5bcf690.htm">
+              <HelpTOCNode Title="ParseAsync Method (IEnumerable(TopicData), Paths, CancellationToken, IProgress(Indicator))" Url="html/bb78d7d8-207f-ab99-7f45-a4934b1172e1.htm" />
+              <HelpTOCNode Title="ParseAsync Method (TopicData, Paths, CancellationToken, IProgress(Indicator), Int32, Int32)" Url="html/afcc304c-d32b-5cee-663d-647b6d6927ec.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="9ed7dba2-6d67-4a25-8154-d77430e153fa" Title="TopicParserResult Class" Url="html/7a1ba741-1c04-a8d0-3287-7006dc0953ac.htm">
           <HelpTOCNode Title="TopicParserResult Methods" Url="html/a71a3b86-7bd7-57bd-f686-eca870d8c066.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="cdfb7448-bbf7-43a2-9e5e-2c808ea58751" Title="TopicUpdater Class" Url="html/fd421411-48f4-df30-6d3b-667b2eee9739.htm">
-          <HelpTOCNode Id="248a9f91-ca21-4629-a98b-b8be84cf72e3" Title="TopicUpdater Methods" Url="html/dbd5913e-e07b-952e-10f2-2de84087e82f.htm">
-            <HelpTOCNode Title="Update Method " Url="html/84792b22-8cc6-6e5c-9641-81a483ea7829.htm" />
+        <HelpTOCNode Id="9f8795be-3b7c-41ef-90e6-bde647a13d1a" Title="TopicUpdater Class" Url="html/fd421411-48f4-df30-6d3b-667b2eee9739.htm">
+          <HelpTOCNode Id="8ef666b5-7060-44c6-8152-a90ced16d1d8" Title="TopicUpdater Methods" Url="html/dbd5913e-e07b-952e-10f2-2de84087e82f.htm">
+            <HelpTOCNode Title="Update Method " Url="html/f5a677a3-f4d7-4a23-e240-52281fea26f2.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="0901a0e4-cff9-486d-a890-ecb32a9a2158" Title="TreeConverter Class" Url="html/47d310e5-bfeb-91f3-76ad-43c2eda40fae.htm">
+          <HelpTOCNode Id="9ab6f09f-6e1b-4b67-ae81-5be8299e0d26" Title="TreeConverter Methods" Url="html/b736e862-874d-e06e-ebae-81bbbe40b84f.htm">
+            <HelpTOCNode Title="ConvertAsync Method " Url="html/3c1e4d8b-cff2-1997-c3d3-1a24c5a62e27.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
@@ -138,7 +176,7 @@
     <HelpTOCNode Title="MAML to AMDL Converter" Url="html/3aa7d932-6348-4151-80fa-f0df28976ae9.htm" />
     <HelpTOCNode Title="AMDL Editor" Url="html/d3a86f89-4c0f-4425-9ff1-3f9f02f4e31d.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="f6c05069-f225-48dc-bf84-8154add4bcaf" Title="How To" Url="html/60c732b5-2209-435f-b01e-d111d6bdf6e1.htm">
+  <HelpTOCNode Id="00ee41aa-6389-43e0-b912-11fc5d9c8e1c" Title="How To" Url="html/60c732b5-2209-435f-b01e-d111d6bdf6e1.htm">
     <HelpTOCNode Title="Discuss AMDL" Url="html/f7e99efb-6f44-4a9c-9e91-91ff96bd603f.htm" />
     <HelpTOCNode Title="Contribute to amdl2maml" Url="html/5b89311b-b05c-4672-a6c0-54436d5a034d.htm" />
     <HelpTOCNode Title="Contribute to the AMDL Documentation" Url="html/264b62f7-dcfa-456d-b3d9-55584b5bf2e3.htm" />
